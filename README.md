@@ -17,7 +17,7 @@ Zomato, an Indian multinational restaurant aggregator and food delivery company,
 ## Data Description
 The dataset used for this analysis spans from 2010 to 2018 and includes approximately 9551 restaurant records across two sub-datasets: `Restaurants_data` and `Country_data`. These datasets contain detailed geographical information and various attributes related to restaurant operations.
 
-- Dataset Link - [Kaggle Zomato Dataset](https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data)
+- Dataset Link - [Kaggle Zomato Dataset](https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data){:target="_blank"}
 
 ## Objectives
 1. Analyze restaurant distribution by city and country, and track restaurant openings by year, quarter, and month.
@@ -36,5 +36,6 @@ The dataset used for this analysis spans from 2010 to 2018 and includes approxim
 This comprehensive exploratory data analysis of Zomato's restaurant data provides valuable insights into distribution, performance, service availability, and global trends. By leveraging these insights and implementing the strategic recommendations, Zomato can enhance its market presence and meet evolving consumer demands effectively.
 
 ## References
-- Complete Project Link - [Comprehensive Analysis of Zomato Restaurant Data - Blog Post](https://analytixedge.blogspot.com/2024/07/unlocking-culinary-trends-exploratory.html)
-- Dataset Link - [Kaggle Zomato Dataset](https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data)
+- Complete Project Link - [Comprehensive Analysis of Zomato Restaurant Data - Blog Post](https://analytixedge.blogspot.com/2024/07/unlocking-culinary-trends-exploratory.html){:target="_blank"}
+- Dataset Link - [Kaggle Zomato Dataset](https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data){:target="_blank"}
+
