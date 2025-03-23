@@ -32,6 +32,8 @@ The dataset used for this analysis spans from 2010 to 2018 and includes approxim
 4. **Services Offered**: Online delivery (25.66%) is more common than table booking (12.12%).
 5. **Cuisine Preferences**: North Indian cuisine dominates.
 
+**Interactive Report:-** [Link]([https://mavenanalytics.io/project/28657](https://mavenanalytics.io/project/28582))
+
 ## Conclusion
 This comprehensive exploratory data analysis of Zomato's restaurant data provides valuable insights into distribution, performance, service availability, and global trends. By leveraging these insights and implementing the strategic recommendations, Zomato can enhance its market presence and meet evolving consumer demands effectively.
 
